@@ -12,8 +12,12 @@ Testimonies from happy client
 Figure 4
 There is the footer on the website where there is Company Info and Created a Footer Nav/Hyper-Links to move to pages
 
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/c35938b5-247b-4781-aa4b-557b08f19d5e" />
+Figure 5
+On the above figure, thats the navigation bar of the website, that site-user/Browsers when use to navigate the website
 
-
+**Purpose of creating this Website*
+Kwena Ka Bodedi relied on social media platforms to market and Advertise themselves a SMEs, I saw that as a growing SMEs company based in Kempton Park. I create a website for them to be present online and reach global reach.
 
 
 
