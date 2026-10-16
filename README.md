@@ -1,5 +1,10 @@
 # Kwena-Ka-Bobedi-Prototype
 Kwena Ka bodedi Mockup from Figma 
+<img width="936" height="467" alt="Git1" src="https://github.com/user-attachments/assets/1b294c49-750a-4945-8096-e258f44e8731" />
+
+
+
+
 
 The link below will take you to Figma
 https://www.figma.com/proto/7k3UhhL9KuEvrFXyHH0mRJ/Kwana-Ka-Bobedi-%E2%80%94-Website-Prototype?node-id=0-1&t=ITB71khNGFg50GGy-1
